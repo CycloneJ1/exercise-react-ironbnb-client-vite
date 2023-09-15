@@ -128,3 +128,4 @@ This component should make a call to the API and display the details of an apart
 - [ ] CSS: Apply different ways to style React components (inline css, plain css with one file per component, scss...).
 - [ ] CSS: use a component library (ex. React Bootstrap, Semantic UI, Ant Design, Chakra, Material UI...)
 
+# exercise-react-ironbnb
